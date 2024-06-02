@@ -20,3 +20,9 @@ and the password is 123.
 
 then you can access the functions of admin and user after proper Login.
 
+
+Developed using Java with a MySQL database backend, the system offers a user-friendly Graphic User Interface (GUI) implemented through JFrame and Java Swing. 
+
+
+Delivered a fully functional and interactive frontend, relational and scalable database design, and a working backend that supports real-time updates.
+
